@@ -1,4 +1,5 @@
-## Hi, I'm Innocent Paul Ojo👋
+## ![Hi, I'm Innocent ](https://github.com/user-attachments/assets/298c2f24-bd03-4e95-a0b0-89e67a88752a)
+
 
 <!--
 **Innocentpaul/Innocentpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
